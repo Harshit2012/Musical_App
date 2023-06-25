@@ -1,1 +1,1 @@
-Refersh page to play other track.
+Refersh page to stop music.
